@@ -1,5 +1,5 @@
 FROM ubuntu:trusty
-MAINTAINER Atif Mir <atifalimir@outlook.com>
+MAINTAINER Atif a Mir <atifalimir@outlook.com>
 
 # Prevent dpkg errors
 ENV TERM=xterm-256color
